@@ -17,7 +17,7 @@
 
 <h3 id="summary">Summary</h3>
 
-The xoox language, pronounced with the oo like "book" ("shoosh"), is a coding language capable of representing the foundation of information and computation. It is a speakable computable language. It is just in the prototype phases right now.
+The xoox language, pronounced with the oo like "book" ("shoosh"), is a coding language capable of representing the foundation of information and computation. It is a speakable computable language. It is just in the prototype phases right now. It is written using [Hanákana](https://github.com/mountbuild/hanakana).
 
 <h3 id="license">License</h3>
 
