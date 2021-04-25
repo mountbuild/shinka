@@ -57,7 +57,7 @@ Some words become shorter through use:
 
 I see the tree.
 
-> <img src="https://github.com/mountbuild/xoox/blob/build/examples/sentences/ma-U-vis-i-da-U-zok-o.png?raw=true" height="20"/>
+> <img src="https://github.com/mountbuild/xoox/blob/build/examples/sentences/ma-U-vis-i-da-U-zok-o.png?raw=true" height="30"/><br/>
 > mak hUq vis hiq dan hUq zok hoq<br/>
-> ma U vis i da U zok o<br/>
+> ma U vis i da U zok o
 
