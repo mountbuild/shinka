@@ -6,7 +6,9 @@
 <br/>
 <br/>
 
-<h3 align='center'>xoox</h3>
+<h3 align='center'>
+  <img src='https://github.com/mountbuild/xoox/blob/build/xoox.png?raw=true' width='500'/>
+</h3>
 <p align='center'>
   a coding language for mars
 </p>
